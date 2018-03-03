@@ -6,7 +6,7 @@
   <link href="/personLBZ.github.io/atom.xml" rel="self"/>
   
   <link href="http://www.abelli.work/"/>
-  <updated>2018-03-03T10:24:13.519Z</updated>
+  <updated>2018-03-03T10:33:28.370Z</updated>
   <id>http://www.abelli.work/</id>
   
   <author>
@@ -21,17 +21,18 @@
     <link href="http://www.abelli.work/2018/03/03/First/"/>
     <id>http://www.abelli.work/2018/03/03/First/</id>
     <published>2018-03-03T10:26:44.835Z</published>
-    <updated>2018-03-03T10:24:13.519Z</updated>
+    <updated>2018-03-03T10:33:28.370Z</updated>
     
-    <content type="html"><![CDATA[<hr><p>#hello world<br>    我的第一篇博客<br> 使用hexo 搭建个人博客</p>]]></content>
+    <content type="html"><![CDATA[<hr><hr><p>title: hello world<br>date: 2018-02-19 20:47:46</p><h2 id="tags"><a href="#tags" class="headerlink" title="tags: "></a>tags: </h2><p>#hello world<br>    我的第一篇博客<br> 使用hexo 搭建个人博客</p>]]></content>
     
     <summary type="html">
     
       
       
         &lt;hr&gt;
-&lt;p&gt;#hello world&lt;br&gt;    我的第一篇博客&lt;br&gt; 使用hexo 搭建个人博客&lt;/p&gt;
-
+&lt;hr&gt;
+&lt;p&gt;title: hello world&lt;br&gt;date: 2018-02-19 20:47:46&lt;/p&gt;
+&lt;h2 id=&quot;tags&quot;&gt;&lt;a href=&quot;#tags&quot; class=&quot;headerlink&quot; title=&quot;tags: &quot;&gt;&lt;/a&gt;tags: &lt;
       
     
     </summary>
