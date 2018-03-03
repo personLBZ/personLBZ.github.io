@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>诗与远方</title>
+  
+  
+  <link href="/personLBZ.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://www.abelli.work/"/>
+  <updated>2018-02-19T12:57:02.777Z</updated>
+  <id>http://www.abelli.work/</id>
+  
+  <author>
+    <name>Person_li</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>神说：要有光</title>
+    <link href="http://www.abelli.work/2018/02/19/%E7%A5%9E%E8%AF%B4%EF%BC%9A%E8%A6%81%E6%9C%89%E5%85%89/"/>
+    <id>http://www.abelli.work/2018/02/19/神说：要有光/</id>
+    <published>2018-02-19T12:47:46.000Z</published>
+    <updated>2018-02-19T12:57:02.777Z</updated>
+    
+    <content type="html"><![CDATA[<p>不忘初心，方得始终</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;不忘初心，方得始终&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
