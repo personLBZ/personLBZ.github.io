@@ -6,7 +6,7 @@
   <link href="/personLBZ.github.io/atom.xml" rel="self"/>
   
   <link href="http://www.abelli.work/"/>
-  <updated>2018-02-19T12:57:02.777Z</updated>
+  <updated>2018-03-03T10:24:13.519Z</updated>
   <id>http://www.abelli.work/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://www.abelli.work/2018/03/03/First/"/>
+    <id>http://www.abelli.work/2018/03/03/First/</id>
+    <published>2018-03-03T10:26:44.835Z</published>
+    <updated>2018-03-03T10:24:13.519Z</updated>
+    
+    <content type="html"><![CDATA[<hr><p>#hello world<br>    我的第一篇博客<br> 使用hexo 搭建个人博客</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;hr&gt;
+&lt;p&gt;#hello world&lt;br&gt;    我的第一篇博客&lt;br&gt; 使用hexo 搭建个人博客&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>神说：要有光</title>
