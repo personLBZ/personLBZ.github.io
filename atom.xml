@@ -6,7 +6,7 @@
   <link href="/personLBZ.github.io/atom.xml" rel="self"/>
   
   <link href="http://www.abelli.work/"/>
-  <updated>2018-03-03T10:33:28.370Z</updated>
+  <updated>2018-03-03T11:09:53.866Z</updated>
   <id>http://www.abelli.work/</id>
   
   <author>
@@ -17,26 +17,27 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
+    <title>hello world</title>
     <link href="http://www.abelli.work/2018/03/03/First/"/>
     <id>http://www.abelli.work/2018/03/03/First/</id>
     <published>2018-03-03T10:26:44.835Z</published>
-    <updated>2018-03-03T10:33:28.370Z</updated>
+    <updated>2018-03-03T11:09:53.866Z</updated>
     
-    <content type="html"><![CDATA[<hr><hr><p>title: hello world<br>date: 2018-02-19 20:47:46</p><h2 id="tags"><a href="#tags" class="headerlink" title="tags: "></a>tags: </h2><p>#hello world<br>    我的第一篇博客<br> 使用hexo 搭建个人博客</p>]]></content>
+    <content type="html"><![CDATA[<pre><code>我的第一篇博客</code></pre><p> 使用hexo 搭建个人博客</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;hr&gt;
-&lt;hr&gt;
-&lt;p&gt;title: hello world&lt;br&gt;date: 2018-02-19 20:47:46&lt;/p&gt;
-&lt;h2 id=&quot;tags&quot;&gt;&lt;a href=&quot;#tags&quot; class=&quot;headerlink&quot; title=&quot;tags: &quot;&gt;&lt;/a&gt;tags: &lt;
+        &lt;pre&gt;&lt;code&gt;我的第一篇博客
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt; 使用hexo 搭建个人博客&lt;/p&gt;
+
       
     
     </summary>
     
+    
+      <category term="首页" scheme="http://www.abelli.work/tags/%E9%A6%96%E9%A1%B5/"/>
     
   </entry>
   
@@ -45,7 +46,7 @@
     <link href="http://www.abelli.work/2018/02/19/%E7%A5%9E%E8%AF%B4%EF%BC%9A%E8%A6%81%E6%9C%89%E5%85%89/"/>
     <id>http://www.abelli.work/2018/02/19/神说：要有光/</id>
     <published>2018-02-19T12:47:46.000Z</published>
-    <updated>2018-02-19T12:57:02.777Z</updated>
+    <updated>2018-03-03T10:54:53.460Z</updated>
     
     <content type="html"><![CDATA[<p>不忘初心，方得始终</p>]]></content>
     
@@ -59,6 +60,8 @@
     
     </summary>
     
+    
+      <category term="首页" scheme="http://www.abelli.work/tags/%E9%A6%96%E9%A1%B5/"/>
     
   </entry>
   
